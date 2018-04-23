@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
                   HOME STYLES
 =============================================*/
 #home-sec {
-  background-image: url(/images/rs-su-bg.png;
+  background-image: url(/images/rs-su-bg.png);
   background-size: cover;
   max-height: 300%;
   background-attachment: fixed;
