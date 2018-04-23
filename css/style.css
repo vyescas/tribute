@@ -6,6 +6,8 @@ body {
   font-family:'Open Sans', sans-serif;
   font-size:100%;
   font-color: black;
+  background-image: url(/images/ricepaper2_2_X.png);
+  background-color: #e3e3e3;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
                   HOME STYLES
 =============================================*/
 #home-sec {
-  background-image: url('https://image.ibb.co/nMZwZk/rs_bg.png');
+  background-image: url(/images/rs-su-bg.png);
   background-size: cover;
   max-height: 300%;
   background-attachment: fixed;
@@ -63,8 +65,6 @@ h1, h2, h3, h4, h5, h6 {
                   BODY STYLES
 =============================================*/
 #body-sec {
-  background-image: url('https://preview.ibb.co/hDTqzk/ricepaper2_2_X.png');
-  background-color: #e3e3e3;
   text-align: center;
 }
 
